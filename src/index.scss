@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  img {
+    @apply w-full h-full object-cover;
+  }
+  .max_width {
+    @apply max-w-[1350px] mx-auto px-4;
+  }
+  .section_heading {
+    @apply font-bold text-2xl sm:text-4xl text-center;
+  }
+  .more_btn {
+    @apply flex items-center gap-2 border-b border-black text-sm sm:text-lg font-semibold hover:scale-95;
+  }
+  .social_icons {
+    span {
+      @apply border border-black rounded-full p-2 cursor-pointer hover:bg-black hover:text-white;
+    }
+  }
+  .footer_right {
+    h1 {
+      @apply font-semibold;
+    }
+    li {
+      @apply text-grey pt-2 cursor-pointer hover:text-black;
+    }
+  }
+}
