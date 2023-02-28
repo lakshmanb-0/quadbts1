@@ -23,15 +23,9 @@ Author : [Lakshman](lakshmanram2259@gmail.com)
             <img src="https://github.com/lakshmanb-0/quadbts1/blob/master/public/tablet.png" />
          </td>
       </tr>
-      <tr>
-        <td> Phone full Image</td>
-    </tr>
-      <tr>
-         <td>
-            <img src="https://github.com/lakshmanb-0/quadbts1/blob/master/public/phone.png" />
-         </td>
-      </tr>
  </table>
+ 
+ 
  
 # Getting Started with Create React App
 
